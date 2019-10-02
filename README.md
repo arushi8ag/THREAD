@@ -35,7 +35,7 @@ $ python main.py --input input/highway.mp4 --output output/highway.avi --yolo yo
       year={2016}
     }
 
-### SORT :
+### SORT  :
 
     @inproceedings{Bewley2016_sort,
       author={Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben},
